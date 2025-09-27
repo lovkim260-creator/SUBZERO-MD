@@ -1,5 +1,5 @@
 module.exports = {
-  SESSION_ID: "SUBZERO-MD;;;3V0SjQYY#U42Eu5TmN6dtyzvezX4Vi3kpP6gvosVfcUboAChLtsw", // Put Session Id Here Inside "*"
+  SESSION_ID: "SUBZERO-MD;;;jVERTSzb#i_SYWB-LXdunzcD_o3AUN1Dg3H0-qYo313FURwQvkmE", // Put Session Id Here Inside "*"
   OWNER_NUMBER: "263719647303", // Put Owner Number Here 
   PREFIX: ".", // Default Prefix You Can Change To .,*!?+-&%#@
   CDN: "https://mrfrankk-cdn.hf.space" // Dont change this part
